@@ -24,7 +24,7 @@ $(call inherit-product, device/lge/cv1/device.mk)
 # Device identifier. This must come after all inclusions
 TARGET_VENDOR := lge
 PRODUCT_DEVICE := cv1
-PRODUCT_NAME := lineage_cv1
+PRODUCT_NAME := full_cv1
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LM-X210MA
 PRODUCT_MANUFACTURER := LGE
