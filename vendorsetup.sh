@@ -1,1 +1,1 @@
-add_lunch_combo linage_cv1-userdebug
+add_lunch_combo lineage_cv1-userdebug
